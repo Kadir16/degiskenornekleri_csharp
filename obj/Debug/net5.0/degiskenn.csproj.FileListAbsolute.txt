@@ -1,0 +1,16 @@
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\degiskenn.exe
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\degiskenn.deps.json
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\degiskenn.runtimeconfig.json
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\degiskenn.runtimeconfig.dev.json
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\degiskenn.dll
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\ref\degiskenn.dll
+C:\Users\Kadir\degiskenn\bin\Debug\net5.0\degiskenn.pdb
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.csproj.AssemblyReference.cache
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.AssemblyInfoInputs.cache
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.AssemblyInfo.cs
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.dll
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\ref\degiskenn.dll
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.pdb
+C:\Users\Kadir\degiskenn\obj\Debug\net5.0\degiskenn.genruntimeconfig.cache
